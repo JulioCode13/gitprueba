@@ -13,4 +13,9 @@ h3{
 
 section{
     background-color: purple;
+    color: red;
+}
+img{
+    width: 100%;
+    max-width: 400px;
 }
